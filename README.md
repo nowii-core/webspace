@@ -22,4 +22,4 @@ Un progetto web moderno e strutturato, sviluppato con HTML, CSS e JavaScript pur
 
 ## 📞 Contatti
 
-* GitHub: [@nowii-core](https://github.com/nowii-core)[cite: 8]
+* GitHub: [@nowii-core](https://github.com/nowii-core)
