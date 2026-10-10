@@ -7,19 +7,19 @@
 
 Un progetto web moderno e strutturato, sviluppato con HTML, CSS e JavaScript puri, focalizzato su design pulito e responsive design.
 
-## ✨ Funzionalità
+##  Funzionalità
 
 * **Design Responsive:** Ottimizzato per la visualizzazione su dispositivi di diverse dimensioni (desktop, tablet e mobile).
 * **Interfaccia Moderna:** Stile curato nei dettagli con transizioni ed effetti visivi fluidi.
 * **Struttura Modulare:** Organizzazione pulita dei componenti CSS e della logica JavaScript.
 * **Prestazioni Elevate:** Nessuna dipendenza esterna pesante, per garantire caricamenti rapidi.
 
-## 🛠 Tecnologie
+##  Tecnologie
 
 * **HTML5:** Struttura semantica della pagina.
 * **CSS3:** Layout avanzati (Grid, Flexbox), stili personalizzati e animazioni fluide.
 * **JavaScript (ES6+):** Gestione della logica e interattività dinamica.
 
-## 📞 Contatti
+##  Contatti
 
 * GitHub: [@nowii-core](https://github.com/nowii-core)
