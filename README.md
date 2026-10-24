@@ -37,7 +37,7 @@
 
 ![Webspace Screenshot](Screenshot-1.png)
 
-> **Live Demo:** [nowii-core.github.io/webspace/](https://nowii-core.github.io/webspace/)
+> **Live Demo:** [nowii-core.github.io/webspace/webspace/](https://nowii-core.github.io/webspace/webspace/)
 
 ---
 
